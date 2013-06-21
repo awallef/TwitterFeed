@@ -1,0 +1,19 @@
+### Mac OS X
+*.DS_Store
+ 
+### NetBeans
+nbproject/private/*
+ 
+### cakePHP
+!empty
+ 
+### composer
+*.lock
+vendors/*
+vendor/*
+ 
+### compass
+*.sass-cache*
+ 
+### npm bower grunt
+*node_modules*
